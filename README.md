@@ -16,7 +16,10 @@ Things left for the officers to finish the website:
 
 Some images:
 
-![](pic1.PNG)
+![Intro](pic1.PNG)
+![About/FAQ](pic2.PNG)
+![Leadership](pic3.PNG)
+![Lectures](pic4.PNG)
 
 Thanks and I hope you like my website!
 
