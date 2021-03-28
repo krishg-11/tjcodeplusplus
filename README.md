@@ -14,6 +14,10 @@ Things left for the officers to finish the website:
 - To add more lectures, just copy the existing tr blocks and change whatever is necessary
 - I picked some colors that I thought looked nice but you can change the colors, logo, and icon by both changing the CSS and adding new images
 
+Some images:
+
+![](pic1.PNG)
+
 Thanks and I hope you like my website!
 
 
